@@ -1,0 +1,14 @@
+C:\Users\giyeo\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe.config
+C:\Users\giyeo\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe
+C:\Users\giyeo\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.pdb
+C:\Users\giyeo\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\Newtonsoft.Json.dll
+C:\Users\giyeo\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\Newtonsoft.Json.pdb
+C:\Users\giyeo\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\Newtonsoft.Json.xml
+C:\Users\giyeo\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.Detail_Form.resources
+C:\Users\giyeo\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.Form1.resources
+C:\Users\giyeo\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.Form2.resources
+C:\Users\giyeo\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.csproj.GenerateResource.Cache
+C:\Users\giyeo\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\giyeo\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.exe
+C:\Users\giyeo\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.pdb
+C:\Users\giyeo\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.csprojResolveAssemblyReference.cache
